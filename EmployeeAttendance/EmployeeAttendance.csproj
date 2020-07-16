@@ -45,23 +45,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdminAtenndanceReport.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AdminAtenndanceReport.Designer.cs" />
-    <Compile Include="EmployeeAttendancepage.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="EmployeeAttendancepage.Designer.cs" />
-    <Compile Include="EPADlogin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="EPADlogin.Designer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="AdminAtenndanceReport.resx" />
-    <EmbeddedResource Include="EmployeeAttendancepage.resx" />
-    <EmbeddedResource Include="EPADlogin.resx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
