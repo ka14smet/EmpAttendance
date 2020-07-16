@@ -14,6 +14,7 @@ namespace EmployeeAttendance
         [STAThread]
         static void Main()
         {
+            Application.Run(new Home());
         }
            
     }
